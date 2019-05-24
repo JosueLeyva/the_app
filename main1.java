@@ -13,5 +13,6 @@ public class main1{
    public static void name1(){
         int mult = 5*2; //10
         double mult;
+        //comment
    }
 }
