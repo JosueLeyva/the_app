@@ -1,4 +1,7 @@
 import React from 'react';
+import Home from '.Component/Home'
+import secondScreen from '.Component/secondScreen';
+
 import { StyleSheet, Text, View } from 'react-native';
 
 export default class App extends React.Component {
@@ -7,7 +10,7 @@ export default class App extends React.Component {
       <View style={{flex:1, justifyContent:"center", alignItems:"center"}}>
 
       <Text>Hello, Josue!</Text>
-      
+
       </View>
 
 
